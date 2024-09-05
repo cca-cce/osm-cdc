@@ -8,6 +8,9 @@ streamlit run streamlit_app_ar_plotly.py
 # stop app and cdc
 ps aux | grep currency_data.py
 kill 55903
+# export sqlite data to tsv
+sqlite3 currency_data.db ".headers on" ".mode tabs" ".output currency_data.tsv" "SELECT * FROM currency_rates;"
+
 
 #
     1  ls -l
