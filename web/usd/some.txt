@@ -1,0 +1,20 @@
+    1  ls -l
+    2  cd web/usd/
+    3  pip install -r requirements.txt
+    4  python --version
+    5  cat requirements.txt 
+    6  pip install -r requirements.txt
+    7  cd ../../
+    8  streamlit run streamlit_app.py
+    9  python currency_data.py > currency_data.log 2>&1 &
+   10  tail -f currency_data.log
+   11  tail currency_data.log
+   12  cat currency_data.log
+   13  head currency_data.py 
+   14  python currency_data.py > currency_data.log 2>&1 &
+   15  tail currency_data.log
+   16  sqlite3 currency_data.db
+   17  streamlit run streamlit_app.py
+   18  ps aux | grep currency_data.py
+   19  kill 20262
+   20  history > web/usd/some.txt
