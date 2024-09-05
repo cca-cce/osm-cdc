@@ -1,3 +1,15 @@
+### live finance app (240905)
+# cd to web app folder..
+cd web/fin/
+# start computational data collection
+python currency_data.py > currency_data.log 2>&1 &
+# start web app
+streamlit run streamlit_app_ar_plotly.py 
+# stop app and cdc
+ps aux | grep currency_data.py
+kill 55903
+
+#
     1  ls -l
     2  cd web/usd/
     3  pip install -r requirements.txt
