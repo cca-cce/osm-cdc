@@ -2,4 +2,5 @@ streamlit
 requests
 #sqlite3
 matplotlib
+plotly
 
