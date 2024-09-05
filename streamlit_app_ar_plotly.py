@@ -2,7 +2,7 @@ import streamlit as st
 import sqlite3
 import pandas as pd
 import plotly.express as px
-import time
+from streamlit_autorefresh import st_autorefresh
 
 # Set up Streamlit app
 st.title('Live Currency Exchange Rate Monitoring')
@@ -19,27 +19,24 @@ def load_data():
 # Set refresh interval (in seconds)
 refresh_interval = 60  # Refresh every 60 seconds
 
-# Streamlit app main loop
-while True:
-    # Load data
-    df = load_data()
+# Add auto-refresh to the app
+st_autorefresh(interval=refresh_interval * 1000, key="data_refresh")
 
-    # Check if data is available
-    if not df.empty:
-        # Convert timestamp to datetime for better Plotly handling
-        df['timestamp'] = pd.to_datetime(df['timestamp'])
+# Load data
+df = load_data()
 
-        # Create Plotly line chart
-        fig = px.line(df, x='timestamp', y=['EUR', 'SEK'], labels={'value': 'Exchange Rate', 'timestamp': 'Time'}, 
-                      title="EUR and SEK compared to USD", 
-                      color_discrete_map={'EUR': 'blue', 'SEK': 'green'})
+# Check if data is available
+if not df.empty:
+    # Convert timestamp to datetime for better Plotly handling
+    df['timestamp'] = pd.to_datetime(df['timestamp'])
 
-        # Display plot in Streamlit
-        st.plotly_chart(fig, use_container_width=True)
+    # Create Plotly line chart
+    fig = px.line(df, x='timestamp', y=['EUR', 'SEK'], labels={'value': 'Exchange Rate', 'timestamp': 'Time'}, 
+                  title="EUR and SEK compared to USD", 
+                  color_discrete_map={'EUR': 'blue', 'SEK': 'green'})
 
-    else:
-        st.write("No data available yet.")
+    # Display plot in Streamlit
+    st.plotly_chart(fig, use_container_width=True)
 
-    # Wait for the specified refresh interval, then rerun the app
-    time.sleep(refresh_interval)
-    st.experimental_rerun()
+else:
+    st.write("No data available yet.")
