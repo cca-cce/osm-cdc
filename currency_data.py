@@ -4,6 +4,7 @@ import time
 
 # API endpoint and your API key (replace with your key)
 API_URL = "https://v6.exchangerate-api.com/v6/YOUR_API_KEY/latest/USD"
+API_URL = "https://v6.exchangerate-api.com/v6/2531b4a563ac7a311e6ce617/latest/USD"
 
 def fetch_currency_data():
     response = requests.get(API_URL)
