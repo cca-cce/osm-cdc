@@ -1,8 +1,15 @@
-### live finance app (240905)
+# install packages
+pip install -r web/fin/requirements.txt
+# handle credentials
+echo "EXCHANGE_RATE_API_KEY=your_actual_api_key" > web/fin/.env
+# api key stored in local root
+cat .env
+export EXCHANGE_RATE_API_KEY="your_actual_api_key"
 # cd to web app folder..
 cd web/fin/
 # start computational data collection
 python currency_data.py > currency_data.log 2>&1 &
+EXCHANGE_RATE_API_KEY="your_actual_api_key" python currency_data.py > currency_data.log 2>&1 &
 # start web app
 streamlit run streamlit_app_ar_plotly.py 
 # stop app and cdc

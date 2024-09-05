@@ -1,23 +1,41 @@
+import os
 import requests
 import sqlite3
 import time
 
+# Load environment variables from .env file
+#from dotenv import load_dotenv
+#load_dotenv()
+#API_KEY = os.getenv('EXCHANGE_RATE_API_KEY')
+
+# Load the API key from the environment
+API_KEY = os.getenv('EXCHANGE_RATE_API_KEY')
+
 # API endpoint and your API key (replace with your key)
 API_URL = "https://v6.exchangerate-api.com/v6/YOUR_API_KEY/latest/USD"
-API_URL = "https://v6.exchangerate-api.com/v6/2531b4a563ac7a311e6ce617/latest/USD"
+
+if not API_KEY:
+    raise ValueError("No API key found. Please set the EXCHANGE_RATE_API_KEY environment variable.")
+
+# API endpoint and key
+API_URL = f"https://v6.exchangerate-api.com/v6/{API_KEY}/latest/USD"
 
 def fetch_currency_data():
-    response = requests.get(API_URL)
-    data = response.json()
-    if response.status_code == 200:
-        # Extract EUR and SEK compared to USD
-        rates = {
-            'EUR': data['conversion_rates']['EUR'],
-            'SEK': data['conversion_rates']['SEK']
-        }
-        return rates
-    else:
-        print("Error fetching data.")
+    try:
+        response = requests.get(API_URL)
+        if response.status_code == 200:
+            data = response.json()
+            rates = {
+                'EUR': data['conversion_rates']['EUR'],
+                'SEK': data['conversion_rates']['SEK']
+            }
+            return rates
+        else:
+            print(f"Error: API request failed with status code {response.status_code}")
+            print(f"Response content: {response.text}")
+            return None
+    except requests.exceptions.RequestException as e:
+        print(f"Error: {e}")
         return None
 
 def save_to_db(data):

@@ -1,6 +1,7 @@
 # r files
 .RData
 .Rhistory
+.env
 
 # folder content
 log/*
