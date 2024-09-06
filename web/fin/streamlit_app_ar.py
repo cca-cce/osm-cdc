@@ -1,8 +1,8 @@
-import streamlit as st
 import sqlite3
 import pandas as pd
+import streamlit as st
+from streamlit_autorefresh import st_autorefresh
 import matplotlib.pyplot as plt
-import time
 
 # Set up Streamlit app
 st.title('Live Currency Exchange Rate Monitoring')
@@ -19,28 +19,25 @@ def load_data():
 # Set refresh interval (in seconds)
 refresh_interval = 60  # Refresh every 60 seconds
 
-# Streamlit app main loop
-while True:
-    # Load data
-    df = load_data()
+# Auto-refresh the app every refresh_interval seconds
+st_autorefresh(interval=refresh_interval * 1000, key="data_refresh")
 
-    # Check if data is available
-    if not df.empty:
-        # Plot the data
-        fig, ax = plt.subplots()
-        ax.plot(df['timestamp'], df['EUR'], label='EUR to USD', color='blue')
-        ax.plot(df['timestamp'], df['SEK'], label='SEK to USD', color='green')
-        ax.set_xlabel('Timestamp')
-        ax.set_ylabel('Exchange Rate')
-        plt.xticks(rotation=45)
-        plt.legend()
+# Load data
+df = load_data()
 
-        # Display plot in Streamlit
-        st.pyplot(fig)
+# Check if data is available
+if not df.empty:
+    # Plot the data
+    fig, ax = plt.subplots()
+    ax.plot(df['timestamp'], df['EUR'], label='EUR to USD', color='blue')
+    ax.plot(df['timestamp'], df['SEK'], label='SEK to USD', color='green')
+    ax.set_xlabel('Timestamp')
+    ax.set_ylabel('Exchange Rate')
+    plt.xticks(rotation=45)
+    plt.legend()
 
-    else:
-        st.write("No data available yet.")
+    # Display plot in Streamlit
+    st.pyplot(fig)
 
-    # Wait for the specified refresh interval, then rerun the app
-    time.sleep(refresh_interval)
-    st.experimental_rerun()
+else:
+    st.write("No data available yet.")

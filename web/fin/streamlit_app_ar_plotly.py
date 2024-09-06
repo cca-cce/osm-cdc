@@ -1,8 +1,8 @@
-import streamlit as st
 import sqlite3
 import pandas as pd
-import plotly.express as px
+import streamlit as st
 from streamlit_autorefresh import st_autorefresh
+import plotly.express as px
 
 # Set up Streamlit app
 st.title('Live Currency Exchange Rate Monitoring')
