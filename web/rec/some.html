@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mouse Tracker</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            height: 100vh;
+            overflow: hidden; /* Disable body scroll to center iframe */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        #mouse-position, #click-position, #scroll-position {
+            position: fixed; /* Keep these elements fixed at the top */
+            top: 0;
+            left: 0;
+            width: 150px;
+            background-color: rgba(255, 255, 255, 0.7);
+            padding: 5px;
+            font-size: 14px;
+            border: 1px solid #ccc;
+            z-index: 1000;
+        }
+        #click-position {
+            top: 30px; /* Place it below the mouse position */
+        }
+        #scroll-position {
+            top: 60px; /* Place it below the click position */
+        }
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+            margin: 0;
+            padding: 0;
+            display: block; /* Ensures the iframe is a block element for centering */
+        }
+    </style>
+</head>
+<body>
+    <div id="mouse-position">Mouse: x: 0, y: 0</div>
+    <div id="click-position">Click: x: 0, y: 0</div>
+    <div id="scroll-position">Scroll: 0</div>
+    
+    <!-- Replace the content div with an iframe -->
+    <iframe src="https://www.isk.lu.se/" title="ISK Website"></iframe>
+
+    <script>
+        // Function to get URL parameters
+        function getUrlParameter(name) {
+            name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+            var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+            var results = regex.exec(location.search);
+            return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+        }
+
+        // Extract the 'user' parameter from the URL
+        const user = getUrlParameter('user');
+
+        // URL of the page
+        const pageUrl = window.location.href;
+
+        // Function to send data to the server
+        function sendDataToServer(data) {
+            fetch('http://localhost:5000/track', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(data),
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log('Success:', data);
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+            });
+        }
+
+        // Track mouse movement and update coordinates
+        document.addEventListener('mousemove', function(event) {
+            var x = event.clientX;
+            var y = event.clientY;
+            document.getElementById('mouse-position').innerText = `Mouse: x: ${x}, y: ${y}`;
+
+            // Send mouse position data to the server
+            sendDataToServer({
+                url: pageUrl,
+                user: user,
+                x: x,
+                y: y,
+                table: 'mouse_positions'
+            });
+        });
+
+        // Track mouse click position
+        document.addEventListener('click', function(event) {
+            var x = event.clientX;
+            var y = event.clientY;
+            document.getElementById('click-position').innerText = `Click: x: ${x}, y: ${y}`;
+
+            // Send click position data to the server
+            sendDataToServer({
+                url: pageUrl,
+                user: user,
+                x: x,
+                y: y,
+                table: 'click_positions'
+            });
+        });
+
+        // Track scroll position of the body
+        document.addEventListener('scroll', function() {
+            var scrollTop = window.scrollY || document.documentElement.scrollTop;
+            document.getElementById('scroll-position').innerText = `Scroll: ${scrollTop}`;
+
+            // Send scroll position data to the server
+            sendDataToServer({
+                url: pageUrl,
+                user: user,
+                scroll: scrollTop,
+                table: 'scroll_positions'
+            });
+        });
+    </script>
+</body>
+</html>
+
+

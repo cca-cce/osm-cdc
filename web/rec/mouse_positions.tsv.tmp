@@ -1,0 +1,742 @@
+url	x	y	user	timestamp
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	540	1	some-string	2024-08-05 14:27:31.581
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	515	22	some-string	2024-08-05 14:27:31.628
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	521	17	some-string	2024-08-05 14:27:31.613
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	536	5	some-string	2024-08-05 14:27:31.584
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	509	27	some-string	2024-08-05 14:27:31.645
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	530	9	some-string	2024-08-05 14:27:31.597
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	508	28	some-string	2024-08-05 14:27:31.662
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	506	30	some-string	2024-08-05 14:27:31.679
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	503	32	some-string	2024-08-05 14:27:31.695
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	503	32	some-string	2024-08-05 14:27:31.712
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	502	33	some-string	2024-08-05 14:27:31.746
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	502	36	some-string	2024-08-05 14:27:31.920
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	496	51	some-string	2024-08-05 14:27:31.933
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	487	77	some-string	2024-08-05 14:27:31.948
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	482	90	some-string	2024-08-05 14:27:31.966
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	476	110	some-string	2024-08-05 14:27:31.982
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	471	120	some-string	2024-08-05 14:27:31.999
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	464	135	some-string	2024-08-05 14:27:32.015
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	459	143	some-string	2024-08-05 14:27:32.032
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	457	147	some-string	2024-08-05 14:27:32.048
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	455	152	some-string	2024-08-05 14:27:32.073
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	455	152	some-string	2024-08-05 14:27:32.088
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	455	152	some-string	2024-08-05 14:27:32.104
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	454	153	some-string	2024-08-05 14:27:32.117
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	453	155	some-string	2024-08-05 14:27:32.142
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	452	157	some-string	2024-08-05 14:27:32.152
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	452	157	some-string	2024-08-05 14:27:32.167
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	451	157	some-string	2024-08-05 14:27:32.182
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	446	159	some-string	2024-08-05 14:27:32.200
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	441	162	some-string	2024-08-05 14:27:32.217
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	435	166	some-string	2024-08-05 14:27:32.235
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	427	170	some-string	2024-08-05 14:27:32.269
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	414	177	some-string	2024-08-05 14:27:32.271
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	401	181	some-string	2024-08-05 14:27:32.285
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	395	182	some-string	2024-08-05 14:27:32.301
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	389	182	some-string	2024-08-05 14:27:32.317
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	388	183	some-string	2024-08-05 14:27:32.342
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	385	183	some-string	2024-08-05 14:27:32.353
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	383	184	some-string	2024-08-05 14:27:32.367
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	381	184	some-string	2024-08-05 14:27:32.382
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	379	184	some-string	2024-08-05 14:27:32.401
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	377	184	some-string	2024-08-05 14:27:32.417
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	377	180	some-string	2024-08-05 14:27:32.433
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	377	173	some-string	2024-08-05 14:27:32.458
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	377	160	some-string	2024-08-05 14:27:32.469
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	377	153	some-string	2024-08-05 14:27:32.483
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	377	152	some-string	2024-08-05 14:27:32.496
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	377	151	some-string	2024-08-05 14:27:32.530
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	377	151	some-string	2024-08-05 14:27:32.531
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	377	150	some-string	2024-08-05 14:27:32.544
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	377	149	some-string	2024-08-05 14:27:32.562
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	377	146	some-string	2024-08-05 14:27:32.585
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	383	131	some-string	2024-08-05 14:27:32.595
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	389	126	some-string	2024-08-05 14:27:32.611
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	392	123	some-string	2024-08-05 14:27:32.628
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	400	118	some-string	2024-08-05 14:27:32.650
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	404	116	some-string	2024-08-05 14:27:32.661
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	410	113	some-string	2024-08-05 14:27:32.678
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	414	111	some-string	2024-08-05 14:27:32.702
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	422	110	some-string	2024-08-05 14:27:32.712
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	429	109	some-string	2024-08-05 14:27:32.727
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	435	109	some-string	2024-08-05 14:27:32.745
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	443	109	some-string	2024-08-05 14:27:32.767
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	447	109	some-string	2024-08-05 14:27:32.777
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	455	109	some-string	2024-08-05 14:27:32.795
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	459	111	some-string	2024-08-05 14:27:32.823
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	464	114	some-string	2024-08-05 14:27:32.834
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	468	118	some-string	2024-08-05 14:27:32.844
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	473	122	some-string	2024-08-05 14:27:32.861
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	473	125	some-string	2024-08-05 14:27:32.884
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	479	134	some-string	2024-08-05 14:27:32.894
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	482	138	some-string	2024-08-05 14:27:32.911
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	484	142	some-string	2024-08-05 14:27:32.927
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	485	143	some-string	2024-08-05 14:27:32.955
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	486	148	some-string	2024-08-05 14:27:32.964
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	486	154	some-string	2024-08-05 14:27:32.978
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	486	159	some-string	2024-08-05 14:27:32.994
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	486	164	some-string	2024-08-05 14:27:33.011
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	485	165	some-string	2024-08-05 14:27:33.030
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	484	167	some-string	2024-08-05 14:27:33.044
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	482	168	some-string	2024-08-05 14:27:33.069
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	475	174	some-string	2024-08-05 14:27:33.077
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	470	177	some-string	2024-08-05 14:27:33.094
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	464	178	some-string	2024-08-05 14:27:33.110
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	453	178	some-string	2024-08-05 14:27:33.136
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	437	178	some-string	2024-08-05 14:27:33.143
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	418	178	some-string	2024-08-05 14:27:33.160
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	402	178	some-string	2024-08-05 14:27:33.177
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	389	178	some-string	2024-08-05 14:27:33.202
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	374	178	some-string	2024-08-05 14:27:33.210
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	365	178	some-string	2024-08-05 14:27:33.227
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	359	178	some-string	2024-08-05 14:27:33.244
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	357	178	some-string	2024-08-05 14:27:33.273
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	353	178	some-string	2024-08-05 14:27:33.277
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	353	178	some-string	2024-08-05 14:27:33.294
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	353	178	some-string	2024-08-05 14:27:33.471
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	353	177	some-string	2024-08-05 14:27:33.481
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	353	177	some-string	2024-08-05 14:27:33.494
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	353	176	some-string	2024-08-05 14:27:33.511
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	353	176	some-string	2024-08-05 14:27:33.684
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	353	176	some-string	2024-08-05 14:27:33.834
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	356	176	some-string	2024-08-05 14:27:35.121
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	369	176	some-string	2024-08-05 14:27:35.136
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	396	169	some-string	2024-08-05 14:27:35.163
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	446	165	some-string	2024-08-05 14:27:35.169
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	505	165	some-string	2024-08-05 14:27:35.184
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	559	165	some-string	2024-08-05 14:27:35.202
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	596	173	some-string	2024-08-05 14:27:35.220
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	663	200	some-string	2024-08-05 14:27:35.235
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	696	214	some-string	2024-08-05 14:27:35.252
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	728	230	some-string	2024-08-05 14:27:35.282
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	764	238	some-string	2024-08-05 14:27:35.286
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	788	247	some-string	2024-08-05 14:27:35.301
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	794	248	some-string	2024-08-05 14:27:35.318
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	794	248	some-string	2024-08-05 14:27:35.357
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	797	247	some-string	2024-08-05 14:27:35.507
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	800	247	some-string	2024-08-05 14:27:35.548
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	806	247	some-string	2024-08-05 14:27:35.550
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	814	245	some-string	2024-08-05 14:27:35.568
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	818	245	some-string	2024-08-05 14:27:35.584
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	822	244	some-string	2024-08-05 14:27:35.605
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	824	243	some-string	2024-08-05 14:27:35.618
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	825	242	some-string	2024-08-05 14:27:35.635
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	826	241	some-string	2024-08-05 14:27:35.667
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	826	241	some-string	2024-08-05 14:27:35.910
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	825	241	some-string	2024-08-05 14:27:35.924
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	825	241	some-string	2024-08-05 14:27:35.935
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	824	241	some-string	2024-08-05 14:27:36.097
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	824	241	some-string	2024-08-05 14:27:36.105
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	822	241	some-string	2024-08-05 14:27:36.698
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	809	239	some-string	2024-08-05 14:27:36.706
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	731	217	some-string	2024-08-05 14:27:36.717
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	678	209	some-string	2024-08-05 14:27:36.734
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	598	196	some-string	2024-08-05 14:27:36.750
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	542	194	some-string	2024-08-05 14:27:36.767
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	458	186	some-string	2024-08-05 14:27:36.784
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	399	179	some-string	2024-08-05 14:27:36.800
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	368	173	some-string	2024-08-05 14:27:36.817
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	326	173	some-string	2024-08-05 14:27:36.833
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	312	173	some-string	2024-08-05 14:27:36.869
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	298	173	some-string	2024-08-05 14:27:36.871
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	280	173	some-string	2024-08-05 14:27:36.884
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	277	173	some-string	2024-08-05 14:27:36.900
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	277	173	some-string	2024-08-05 14:27:36.917
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	277	173	some-string	2024-08-05 14:27:40.006
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	278	172	some-string	2024-08-05 14:27:40.024
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	277	172	some-string	2024-08-05 14:27:40.008
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	278	171	some-string	2024-08-05 14:27:41.001
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	278	170	some-string	2024-08-05 14:27:41.188
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	277	170	some-string	2024-08-05 14:27:42.044
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	277	170	some-string	2024-08-05 14:27:42.078
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	276	170	some-string	2024-08-05 14:27:42.891
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	276	170	some-string	2024-08-05 14:27:42.895
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	277	170	some-string	2024-08-05 14:27:42.918
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	284	170	some-string	2024-08-05 14:27:42.926
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	305	157	some-string	2024-08-05 14:27:42.940
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	329	147	some-string	2024-08-05 14:27:42.957
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	364	138	some-string	2024-08-05 14:27:42.974
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	385	138	some-string	2024-08-05 14:27:42.992
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	408	137	some-string	2024-08-05 14:27:43.007
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	426	137	some-string	2024-08-05 14:27:43.023
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	438	137	some-string	2024-08-05 14:27:43.040
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	442	137	some-string	2024-08-05 14:27:43.082
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	452	137	some-string	2024-08-05 14:27:43.083
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	455	137	some-string	2024-08-05 14:27:43.090
+file:///home/sol-nhl/dev/cce-web/web/py/index.html?user=some-string	456	137	some-string	2024-08-05 14:27:43.107
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1064	530		2024-08-05 18:36:23.514
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1061	527		2024-08-05 18:36:23.574
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1053	517		2024-08-05 18:36:23.590
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1050	509		2024-08-05 18:36:23.607
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1045	492		2024-08-05 18:36:23.626
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1042	479		2024-08-05 18:36:23.645
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1040	467		2024-08-05 18:36:23.659
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1035	461		2024-08-05 18:36:23.674
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1033	459		2024-08-05 18:36:23.690
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1031	458		2024-08-05 18:36:23.707
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1031	457		2024-08-05 18:36:23.723
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1030	457		2024-08-05 18:36:23.827
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1028	453		2024-08-05 18:36:23.840
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1025	449		2024-08-05 18:36:23.856
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1025	449		2024-08-05 18:36:23.873
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1025	448		2024-08-05 18:36:23.890
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1021	437		2024-08-05 18:36:23.906
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1019	433		2024-08-05 18:36:23.923
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	430		2024-08-05 18:36:23.944
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	428		2024-08-05 18:36:23.963
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	425		2024-08-05 18:36:23.981
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	423		2024-08-05 18:36:23.995
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	422		2024-08-05 18:36:24.009
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	419		2024-08-05 18:36:24.026
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	418		2024-08-05 18:36:24.043
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	418		2024-08-05 18:36:24.065
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	417		2024-08-05 18:36:24.078
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	415		2024-08-05 18:36:24.096
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	412		2024-08-05 18:36:24.112
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	411		2024-08-05 18:36:24.182
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	411		2024-08-05 18:36:24.198
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	401		2024-08-05 18:36:24.211
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	398		2024-08-05 18:36:24.224
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	398		2024-08-05 18:36:24.240
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	398		2024-08-05 18:36:24.263
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	398		2024-08-05 18:36:24.319
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	397		2024-08-05 18:36:24.346
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	396		2024-08-05 18:36:24.359
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	394		2024-08-05 18:36:24.375
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	393		2024-08-05 18:36:24.393
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1018	393		2024-08-05 18:36:24.413
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1019	393		2024-08-05 18:36:24.429
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1019	392		2024-08-05 18:36:24.510
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1019	392		2024-08-05 18:36:24.556
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1019	390		2024-08-05 18:36:24.572
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1019	390		2024-08-05 18:36:24.589
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1016	389		2024-08-05 18:36:24.606
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1014	389		2024-08-05 18:36:24.623
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1013	389		2024-08-05 18:36:24.639
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1007	389		2024-08-05 18:36:24.656
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	1004	389		2024-08-05 18:36:24.680
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	998	388		2024-08-05 18:36:24.702
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	995	387		2024-08-05 18:36:24.714
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	994	387		2024-08-05 18:36:24.727
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	993	387		2024-08-05 18:36:24.743
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	993	387		2024-08-05 18:36:24.781
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	992	386		2024-08-05 18:36:24.794
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	992	386		2024-08-05 18:36:24.814
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	992	386		2024-08-05 18:36:24.837
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	992	386		2024-08-05 18:36:24.913
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	991	386		2024-08-05 18:36:24.949
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	989	386		2024-08-05 18:36:24.969
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	987	386		2024-08-05 18:36:24.975
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	980	386		2024-08-05 18:36:24.989
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	978	386		2024-08-05 18:36:25.005
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	975	384		2024-08-05 18:36:25.025
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	974	384		2024-08-05 18:36:25.049
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	974	383		2024-08-05 18:36:25.063
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	974	383		2024-08-05 18:36:25.078
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	974	383		2024-08-05 18:36:25.095
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	973	383		2024-08-05 18:36:25.126
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	969	381		2024-08-05 18:36:25.143
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	965	380		2024-08-05 18:36:25.161
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	963	380		2024-08-05 18:36:25.177
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	959	379		2024-08-05 18:36:25.190
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	956	378		2024-08-05 18:36:25.205
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	953	377		2024-08-05 18:36:25.222
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	950	377		2024-08-05 18:36:25.243
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	947	377		2024-08-05 18:36:25.260
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	943	376		2024-08-05 18:36:25.277
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	940	375		2024-08-05 18:36:25.293
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	938	375		2024-08-05 18:36:25.309
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	937	374		2024-08-05 18:36:25.326
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	935	373		2024-08-05 18:36:25.338
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	933	371		2024-08-05 18:36:25.359
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	932	371		2024-08-05 18:36:25.377
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	932	371		2024-08-05 18:36:25.392
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	932	370		2024-08-05 18:36:25.409
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	931	368		2024-08-05 18:36:25.427
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	929	366		2024-08-05 18:36:25.443
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	929	365		2024-08-05 18:36:25.455
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	928	364		2024-08-05 18:36:25.476
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	928	363		2024-08-05 18:36:25.493
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	926	363		2024-08-05 18:36:26.024
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	917	363		2024-08-05 18:36:26.043
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	923	363		2024-08-05 18:36:26.031
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	911	358		2024-08-05 18:36:26.059
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	889	341		2024-08-05 18:36:26.076
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	875	333		2024-08-05 18:36:26.093
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	861	322		2024-08-05 18:36:26.109
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	851	318		2024-08-05 18:36:26.126
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	833	312		2024-08-05 18:36:26.148
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	823	307		2024-08-05 18:36:26.170
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	806	300		2024-08-05 18:36:26.183
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	788	295		2024-08-05 18:36:26.196
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	774	293		2024-08-05 18:36:26.213
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	756	290		2024-08-05 18:36:26.228
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	744	288		2024-08-05 18:36:26.248
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	727	285		2024-08-05 18:36:26.263
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	717	281		2024-08-05 18:36:26.279
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	707	275		2024-08-05 18:36:26.295
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	700	272		2024-08-05 18:36:26.314
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	685	269		2024-08-05 18:36:26.332
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	671	267		2024-08-05 18:36:26.345
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	665	266		2024-08-05 18:36:26.363
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	653	263		2024-08-05 18:36:26.379
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	644	262		2024-08-05 18:36:26.397
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	632	257		2024-08-05 18:36:26.413
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	622	255		2024-08-05 18:36:26.431
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	611	253		2024-08-05 18:36:26.447
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	606	251		2024-08-05 18:36:26.461
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	602	248		2024-08-05 18:36:26.478
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	599	246		2024-08-05 18:36:26.495
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	596	245		2024-08-05 18:36:26.518
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	593	244		2024-08-05 18:36:26.533
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	590	243		2024-08-05 18:36:26.549
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	586	243		2024-08-05 18:36:26.564
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	584	242		2024-08-05 18:36:26.578
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	583	241		2024-08-05 18:36:26.596
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	583	241		2024-08-05 18:36:26.613
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	583	241		2024-08-05 18:36:26.630
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	582	241		2024-08-05 18:36:28.345
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	581	241		2024-08-05 18:36:28.544
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	581	240		2024-08-05 18:36:34.125
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	581	240		2024-08-05 18:36:35.965
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	581	240		2024-08-05 18:36:36.098
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	581	240		2024-08-05 18:36:36.130
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	578	240		2024-08-05 18:36:36.147
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	575	241		2024-08-05 18:36:36.163
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	573	243		2024-08-05 18:36:36.180
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	572	244		2024-08-05 18:36:36.196
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	569	249		2024-08-05 18:36:36.217
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	566	252		2024-08-05 18:36:36.234
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	563	257		2024-08-05 18:36:36.250
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	560	263		2024-08-05 18:36:36.267
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	558	266		2024-08-05 18:36:36.283
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	555	272		2024-08-05 18:36:36.296
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	553	275		2024-08-05 18:36:36.313
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	549	281		2024-08-05 18:36:36.334
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	547	284		2024-08-05 18:36:36.352
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	544	288		2024-08-05 18:36:36.367
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	543	290		2024-08-05 18:36:36.383
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	541	295		2024-08-05 18:36:36.401
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	539	299		2024-08-05 18:36:36.418
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	537	302		2024-08-05 18:36:36.429
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	535	307		2024-08-05 18:36:36.453
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	533	309		2024-08-05 18:36:36.467
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	530	315		2024-08-05 18:36:36.482
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	529	317		2024-08-05 18:36:36.501
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	527	321		2024-08-05 18:36:36.517
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	526	324		2024-08-05 18:36:36.537
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	524	327		2024-08-05 18:36:36.546
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	523	329		2024-08-05 18:36:36.567
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	521	332		2024-08-05 18:36:36.597
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	521	333		2024-08-05 18:36:36.602
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	520	335		2024-08-05 18:36:36.622
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	519	336		2024-08-05 18:36:36.633
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	519	337		2024-08-05 18:36:36.650
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	519	338		2024-08-05 18:36:36.663
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	519	338		2024-08-05 18:36:36.687
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	519	338		2024-08-05 18:36:36.702
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	518	340		2024-08-05 18:36:36.722
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	518	343		2024-08-05 18:36:36.737
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	518	344		2024-08-05 18:36:36.752
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	518	344		2024-08-05 18:36:36.767
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	518	347		2024-08-05 18:36:36.780
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	518	347		2024-08-05 18:36:36.800
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	518	349		2024-08-05 18:36:36.818
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	518	350		2024-08-05 18:36:36.843
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	518	352		2024-08-05 18:36:36.860
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	518	354		2024-08-05 18:36:36.871
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	520	356		2024-08-05 18:36:36.884
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	522	358		2024-08-05 18:36:36.897
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	525	358		2024-08-05 18:36:36.916
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	530	359		2024-08-05 18:36:36.933
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	533	360		2024-08-05 18:36:36.952
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	537	362		2024-08-05 18:36:36.966
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	539	363		2024-08-05 18:36:36.982
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	542	365		2024-08-05 18:36:37.000
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	543	365		2024-08-05 18:36:37.012
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	545	365		2024-08-05 18:36:37.033
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	545	365		2024-08-05 18:36:37.049
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	546	365		2024-08-05 18:36:37.069
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	548	366		2024-08-05 18:36:37.088
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	549	368		2024-08-05 18:36:37.100
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	549	368		2024-08-05 18:36:37.115
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	549	368		2024-08-05 18:36:37.140
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	550	368		2024-08-05 18:36:37.158
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	550	368		2024-08-05 18:36:37.757
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	551	368		2024-08-05 18:36:37.773
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	548	368		2024-08-05 18:36:37.862
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	541	368		2024-08-05 18:36:37.884
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	532	368		2024-08-05 18:36:37.895
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	527	368		2024-08-05 18:36:37.909
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	519	368		2024-08-05 18:36:37.926
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	515	368		2024-08-05 18:36:37.943
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	509	371		2024-08-05 18:36:37.959
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	506	372		2024-08-05 18:36:37.980
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	500	374		2024-08-05 18:36:38.005
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	496	375		2024-08-05 18:36:38.015
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	491	376		2024-08-05 18:36:38.031
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	489	377		2024-08-05 18:36:38.044
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	488	377		2024-08-05 18:36:38.063
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	484	380		2024-08-05 18:36:38.079
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	481	382		2024-08-05 18:36:38.097
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	473	386		2024-08-05 18:36:38.113
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	468	389		2024-08-05 18:36:38.133
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	461	395		2024-08-05 18:36:38.150
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	458	398		2024-08-05 18:36:38.166
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	454	401		2024-08-05 18:36:38.179
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	450	402		2024-08-05 18:36:38.196
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	449	405		2024-08-05 18:36:38.213
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	444	409		2024-08-05 18:36:38.228
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	441	413		2024-08-05 18:36:38.244
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	438	419		2024-08-05 18:36:38.262
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	437	422		2024-08-05 18:36:38.280
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	434	426		2024-08-05 18:36:38.296
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	432	429		2024-08-05 18:36:38.314
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	431	432		2024-08-05 18:36:38.329
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	431	434		2024-08-05 18:36:38.346
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	431	437		2024-08-05 18:36:38.365
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	431	443		2024-08-05 18:36:38.380
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	431	446		2024-08-05 18:36:38.397
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	431	452		2024-08-05 18:36:38.414
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	431	455		2024-08-05 18:36:38.430
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	431	458		2024-08-05 18:36:38.446
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	431	461		2024-08-05 18:36:38.465
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	434	466		2024-08-05 18:36:38.478
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	437	470		2024-08-05 18:36:38.496
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	439	475		2024-08-05 18:36:38.515
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	443	479		2024-08-05 18:36:38.532
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	445	482		2024-08-05 18:36:38.553
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	450	485		2024-08-05 18:36:38.562
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	453	485		2024-08-05 18:36:38.581
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	456	488		2024-08-05 18:36:38.597
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	459	488		2024-08-05 18:36:38.614
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	463	490		2024-08-05 18:36:38.630
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	467	491		2024-08-05 18:36:38.647
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	473	491		2024-08-05 18:36:38.667
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	476	491		2024-08-05 18:36:38.679
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	480	493		2024-08-05 18:36:38.696
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	485	494		2024-08-05 18:36:38.713
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	488	495		2024-08-05 18:36:38.729
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	492	495		2024-08-05 18:36:38.746
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	496	496		2024-08-05 18:36:38.764
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	499	496		2024-08-05 18:36:38.783
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	502	496		2024-08-05 18:36:38.799
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	503	497		2024-08-05 18:36:38.815
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	504	497		2024-08-05 18:36:38.831
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	504	498		2024-08-05 18:36:38.845
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	505	498		2024-08-05 18:36:39.282
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	505	497		2024-08-05 18:36:39.541
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	505	497		2024-08-05 18:36:39.548
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	505	496		2024-08-05 18:36:39.560
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	516	496		2024-08-05 18:36:39.576
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	529	495		2024-08-05 18:36:39.592
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	551	495		2024-08-05 18:36:39.609
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	575	495		2024-08-05 18:36:39.625
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	589	495		2024-08-05 18:36:39.643
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	605	497		2024-08-05 18:36:39.666
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	615	500		2024-08-05 18:36:39.684
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	624	505		2024-08-05 18:36:39.702
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	635	510		2024-08-05 18:36:39.715
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	644	515		2024-08-05 18:36:39.734
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	647	515		2024-08-05 18:36:39.742
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	649	517		2024-08-05 18:36:39.764
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	649	517		2024-08-05 18:36:39.779
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	650	518		2024-08-05 18:36:39.798
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	650	518		2024-08-05 18:36:39.912
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	650	518		2024-08-05 18:36:39.932
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	650	519		2024-08-05 18:36:39.971
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	650	519		2024-08-05 18:36:39.990
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	650	520		2024-08-05 18:36:39.997
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	650	520		2024-08-05 18:36:40.009
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	650	521		2024-08-05 18:36:40.028
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	650	521		2024-08-05 18:36:40.046
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	650	521		2024-08-05 18:36:40.063
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	650	521		2024-08-05 18:36:40.823
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	650	520		2024-08-05 18:36:40.841
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	650	521		2024-08-05 18:36:40.829
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	650	520		2024-08-05 18:36:41.893
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	650	521		2024-08-05 18:36:41.925
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	650	522		2024-08-05 18:36:41.942
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	647	522		2024-08-05 18:36:41.958
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	636	522		2024-08-05 18:36:41.975
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	619	522		2024-08-05 18:36:41.991
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	605	522		2024-08-05 18:36:42.014
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	588	517		2024-08-05 18:36:42.029
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	578	515		2024-08-05 18:36:42.045
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	563	510		2024-08-05 18:36:42.062
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	554	507		2024-08-05 18:36:42.079
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	551	506		2024-08-05 18:36:42.091
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	551	506		2024-08-05 18:36:42.108
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	551	506		2024-08-05 18:36:42.128
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	551	505		2024-08-05 18:36:42.208
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	551	505		2024-08-05 18:36:42.251
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	551	504		2024-08-05 18:36:45.841
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	555	502		2024-08-05 18:36:45.860
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	551	504		2024-08-05 18:36:45.848
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	563	500		2024-08-05 18:36:45.877
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	569	498		2024-08-05 18:36:45.893
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	578	498		2024-08-05 18:36:45.910
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	584	498		2024-08-05 18:36:45.926
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	590	498		2024-08-05 18:36:45.943
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	595	498		2024-08-05 18:36:45.963
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	599	498		2024-08-05 18:36:45.982
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	601	498		2024-08-05 18:36:45.996
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	602	498		2024-08-05 18:36:46.011
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	603	498		2024-08-05 18:36:46.031
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	605	497		2024-08-05 18:36:46.048
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	606	497		2024-08-05 18:36:46.061
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	607	497		2024-08-05 18:36:46.080
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	607	497		2024-08-05 18:36:46.135
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	608	497		2024-08-05 18:36:46.185
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	608	497		2024-08-05 18:36:46.259
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	608	497		2024-08-05 18:36:46.264
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	612	496		2024-08-05 18:36:46.276
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	614	494		2024-08-05 18:36:46.295
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	617	494		2024-08-05 18:36:46.322
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	623	494		2024-08-05 18:36:46.333
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	626	494		2024-08-05 18:36:46.346
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	628	494		2024-08-05 18:36:46.362
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	632	494		2024-08-05 18:36:46.376
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	635	494		2024-08-05 18:36:46.393
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	637	494		2024-08-05 18:36:46.411
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	638	494		2024-08-05 18:36:46.429
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	638	494		2024-08-05 18:36:46.445
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	638	495		2024-08-05 18:36:46.557
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	638	495		2024-08-05 18:36:46.563
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	638	496		2024-08-05 18:36:46.576
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	638	497		2024-08-05 18:36:46.593
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	638	497		2024-08-05 18:36:46.609
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	641	497		2024-08-05 18:36:47.358
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	668	492		2024-08-05 18:36:47.377
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	647	497		2024-08-05 18:36:47.365
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	685	489		2024-08-05 18:36:47.393
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	717	486		2024-08-05 18:36:47.409
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	751	486		2024-08-05 18:36:47.426
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	774	486		2024-08-05 18:36:47.442
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	810	486		2024-08-05 18:36:47.460
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	833	486		2024-08-05 18:36:47.480
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	857	486		2024-08-05 18:36:47.495
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	872	492		2024-08-05 18:36:47.518
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	882	498		2024-08-05 18:36:47.530
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	885	500		2024-08-05 18:36:47.546
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	891	502		2024-08-05 18:36:47.563
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	894	502		2024-08-05 18:36:47.578
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	895	502		2024-08-05 18:36:47.598
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	895	503		2024-08-05 18:36:47.653
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	895	503		2024-08-05 18:36:47.667
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	896	506		2024-08-05 18:36:47.681
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	899	508		2024-08-05 18:36:47.693
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	902	512		2024-08-05 18:36:47.714
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	905	515		2024-08-05 18:36:47.731
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	906	517		2024-08-05 18:36:47.750
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	906	518		2024-08-05 18:36:47.761
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	906	517		2024-08-05 18:36:49.163
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	906	515		2024-08-05 18:36:58.972
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	895	500		2024-08-05 18:36:58.999
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	880	494		2024-08-05 18:36:59.017
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	906	512		2024-08-05 18:36:58.984
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	860	483		2024-08-05 18:36:59.033
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	848	479		2024-08-05 18:36:59.048
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	831	473		2024-08-05 18:36:59.065
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	823	469		2024-08-05 18:36:59.085
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	810	464		2024-08-05 18:36:59.104
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	801	460		2024-08-05 18:36:59.120
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	797	458		2024-08-05 18:36:59.138
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	793	456		2024-08-05 18:36:59.150
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	791	455		2024-08-05 18:36:59.168
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	789	454		2024-08-05 18:36:59.181
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	788	454		2024-08-05 18:36:59.201
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	788	454		2024-08-05 18:36:59.219
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	788	453		2024-08-05 18:36:59.316
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	788	452		2024-08-05 18:36:59.381
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	788	452		2024-08-05 18:36:59.399
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	788	450		2024-08-05 18:36:59.415
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	785	448		2024-08-05 18:36:59.437
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	782	443		2024-08-05 18:36:59.451
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	780	440		2024-08-05 18:36:59.468
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	778	434		2024-08-05 18:36:59.481
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	776	433		2024-08-05 18:36:59.498
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	774	432		2024-08-05 18:36:59.514
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	774	432		2024-08-05 18:36:59.531
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	774	432		2024-08-05 18:36:59.978
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	775	432		2024-08-05 18:36:59.996
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	775	433		2024-08-05 18:37:01.081
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	777	432		2024-08-05 18:37:01.129
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	788	423		2024-08-05 18:37:01.147
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	809	410		2024-08-05 18:37:01.164
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	830	396		2024-08-05 18:37:01.180
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	843	389		2024-08-05 18:37:01.203
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	851	386		2024-08-05 18:37:01.217
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	863	381		2024-08-05 18:37:01.233
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	872	377		2024-08-05 18:37:01.247
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	879	374		2024-08-05 18:37:01.263
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	888	371		2024-08-05 18:37:01.279
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	894	371		2024-08-05 18:37:01.296
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	897	371		2024-08-05 18:37:01.319
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	899	370		2024-08-05 18:37:01.332
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	903	368		2024-08-05 18:37:01.348
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	908	368		2024-08-05 18:37:01.365
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	910	368		2024-08-05 18:37:01.385
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	913	368		2024-08-05 18:37:01.400
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	914	368		2024-08-05 18:37:01.413
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	914	368		2024-08-05 18:37:01.433
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	914	367		2024-08-05 18:37:01.470
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	914	368		2024-08-05 18:37:02.447
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	914	368		2024-08-05 18:37:02.464
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	914	368		2024-08-05 18:37:04.815
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	908	368		2024-08-05 18:37:04.834
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	912	368		2024-08-05 18:37:04.822
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	896	362		2024-08-05 18:37:04.851
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	878	353		2024-08-05 18:37:04.867
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	845	342		2024-08-05 18:37:04.884
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	818	339		2024-08-05 18:37:04.900
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	785	335		2024-08-05 18:37:04.917
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	773	334		2024-08-05 18:37:04.960
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	750	326		2024-08-05 18:37:04.969
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	743	324		2024-08-05 18:37:04.978
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	734	323		2024-08-05 18:37:04.994
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	728	323		2024-08-05 18:37:05.014
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	721	323		2024-08-05 18:37:05.022
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	719	323		2024-08-05 18:37:05.067
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	719	323		2024-08-05 18:37:05.090
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	719	323		2024-08-05 18:37:05.125
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	718	323		2024-08-05 18:37:05.343
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	716	326		2024-08-05 18:37:05.362
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	717	324		2024-08-05 18:37:05.351
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	716	329		2024-08-05 18:37:05.378
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	713	332		2024-08-05 18:37:05.394
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	713	332		2024-08-05 18:37:05.411
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	713	332		2024-08-05 18:37:05.755
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	713	332		2024-08-05 18:37:05.785
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	714	332		2024-08-05 18:37:07.221
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	722	326		2024-08-05 18:37:07.235
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	731	321		2024-08-05 18:37:07.253
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	734	319		2024-08-05 18:37:07.269
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	743	314		2024-08-05 18:37:07.286
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	751	308		2024-08-05 18:37:07.302
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	756	306		2024-08-05 18:37:07.319
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	770	300		2024-08-05 18:37:07.338
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	778	298		2024-08-05 18:37:07.357
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	790	293		2024-08-05 18:37:07.372
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	796	291		2024-08-05 18:37:07.390
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	797	290		2024-08-05 18:37:07.407
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	801	288		2024-08-05 18:37:07.435
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	806	287		2024-08-05 18:37:07.456
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	809	287		2024-08-05 18:37:07.471
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	814	285		2024-08-05 18:37:07.487
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	816	285		2024-08-05 18:37:07.505
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	817	284		2024-08-05 18:37:07.523
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	821	283		2024-08-05 18:37:07.535
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	828	279		2024-08-05 18:37:07.552
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	833	278		2024-08-05 18:37:07.574
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	839	278		2024-08-05 18:37:07.588
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	842	278		2024-08-05 18:37:07.608
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	845	278		2024-08-05 18:37:07.625
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	845	278		2024-08-05 18:37:07.640
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	845	278		2024-08-05 18:37:07.657
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	845	278		2024-08-05 18:37:09.910
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	845	278		2024-08-05 18:37:09.932
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	844	278		2024-08-05 18:37:09.945
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	843	278		2024-08-05 18:37:09.960
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	838	278		2024-08-05 18:37:09.977
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	833	278		2024-08-05 18:37:09.994
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	823	278		2024-08-05 18:37:10.011
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	816	276		2024-08-05 18:37:10.032
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	807	275		2024-08-05 18:37:10.048
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	802	275		2024-08-05 18:37:10.068
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	791	275		2024-08-05 18:37:10.082
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	783	275		2024-08-05 18:37:10.099
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	774	275		2024-08-05 18:37:10.114
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	767	275		2024-08-05 18:37:10.128
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	763	275		2024-08-05 18:37:10.147
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	759	275		2024-08-05 18:37:10.166
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	755	275		2024-08-05 18:37:10.182
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	752	275		2024-08-05 18:37:10.196
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	750	275		2024-08-05 18:37:10.215
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	750	275		2024-08-05 18:37:10.233
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	750	275		2024-08-05 18:37:10.245
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	749	276		2024-08-05 18:37:10.264
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	740	281		2024-08-05 18:37:10.281
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	733	286		2024-08-05 18:37:10.297
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	732	287		2024-08-05 18:37:10.312
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	731	287		2024-08-05 18:37:10.333
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	728	289		2024-08-05 18:37:10.351
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	726	290		2024-08-05 18:37:10.360
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	725	290		2024-08-05 18:37:10.383
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	725	290		2024-08-05 18:37:10.406
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	723	291		2024-08-05 18:37:10.420
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	720	293		2024-08-05 18:37:10.432
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	719	293		2024-08-05 18:37:10.449
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	719	294		2024-08-05 18:37:10.464
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	719	295		2024-08-05 18:37:11.747
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	719	296		2024-08-05 18:37:11.762
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	706	296		2024-08-05 18:37:11.778
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	663	290		2024-08-05 18:37:11.795
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	635	286		2024-08-05 18:37:11.811
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	582	283		2024-08-05 18:37:11.828
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	548	281		2024-08-05 18:37:11.845
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	536	281		2024-08-05 18:37:11.864
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	524	281		2024-08-05 18:37:11.881
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	520	280		2024-08-05 18:37:11.901
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	519	280		2024-08-05 18:37:11.915
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	519	280		2024-08-05 18:37:11.948
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	518	280		2024-08-05 18:37:11.961
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	517	280		2024-08-05 18:37:11.983
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	515	280		2024-08-05 18:37:12.001
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	515	280		2024-08-05 18:37:12.015
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	515	280		2024-08-05 18:37:12.569
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	515	280		2024-08-05 18:37:16.524
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	516	280		2024-08-05 18:37:16.580
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	529	281		2024-08-05 18:37:16.592
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	542	286		2024-08-05 18:37:16.609
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	560	293		2024-08-05 18:37:16.626
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	575	300		2024-08-05 18:37:16.646
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	602	310		2024-08-05 18:37:16.661
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	618	323		2024-08-05 18:37:16.679
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	640	338		2024-08-05 18:37:16.693
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	653	350		2024-08-05 18:37:16.709
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	669	365		2024-08-05 18:37:16.726
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	679	374		2024-08-05 18:37:16.747
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	689	383		2024-08-05 18:37:16.766
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	691	386		2024-08-05 18:37:16.781
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	389		2024-08-05 18:37:16.797
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	389		2024-08-05 18:37:16.813
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	389		2024-08-05 18:37:16.833
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	390		2024-08-05 18:37:16.842
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	392		2024-08-05 18:37:16.863
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	397		2024-08-05 18:37:16.878
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	401		2024-08-05 18:37:16.898
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	407		2024-08-05 18:37:16.912
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	414		2024-08-05 18:37:16.930
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	425		2024-08-05 18:37:16.947
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	438		2024-08-05 18:37:16.958
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	446		2024-08-05 18:37:16.980
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	454		2024-08-05 18:37:16.995
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	456		2024-08-05 18:37:17.013
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	459		2024-08-05 18:37:17.030
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	460		2024-08-05 18:37:17.065
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	461		2024-08-05 18:37:17.066
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	461		2024-08-05 18:37:17.091
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	461		2024-08-05 18:37:17.193
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	462		2024-08-05 18:37:17.307
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	462		2024-08-05 18:37:17.325
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	463		2024-08-05 18:37:17.331
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	464		2024-08-05 18:37:17.343
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	464		2024-08-05 18:37:17.360
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	465		2024-08-05 18:37:17.377
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	466		2024-08-05 18:37:17.393
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	467		2024-08-05 18:37:17.410
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	467		2024-08-05 18:37:17.444
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	467		2024-08-05 18:37:17.454
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	467		2024-08-05 18:37:17.466
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	468		2024-08-05 18:37:17.483
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	469		2024-08-05 18:37:17.501
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	469		2024-08-05 18:37:17.513
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	470		2024-08-05 18:37:17.542
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	470		2024-08-05 18:37:17.553
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	470		2024-08-05 18:37:17.571
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	471		2024-08-05 18:37:17.586
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	471		2024-08-05 18:37:17.603
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	472		2024-08-05 18:37:17.636
+file:///home/sol-nhl/dev/cce-web/web/py/index.html	692	472		2024-08-05 18:37:17.653
