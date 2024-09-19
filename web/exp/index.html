@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Page Redirect</title>
+    <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+</head>
+<body>
+    <h1>Welcome to Random Page Redirect</h1>
+    <py-script>
+        import random
+        from js import document, window
+
+        def create_random_button():
+            button = document.createElement('button')
+            button.textContent = 'Go to a random page'
+            button.onclick = redirect_user
+            document.body.appendChild(button)
+
+        def redirect_user(event):
+            if random.random() < 0.5:
+                window.location.href = 'subpage_a.html'
+            else:
+                window.location.href = 'subpage_b.html'
+
+        create_random_button()
+    </py-script>
+</body>
+</html>
