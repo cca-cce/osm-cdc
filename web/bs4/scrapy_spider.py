@@ -1,5 +1,5 @@
 # scrapy_spider.py
-
+#pip install scrapy pandas
 import scrapy
 from scrapy.crawler import CrawlerProcess
 from urllib.parse import urljoin
