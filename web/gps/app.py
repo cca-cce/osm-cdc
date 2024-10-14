@@ -39,6 +39,8 @@ def initialize_user():
         st.session_state['ab_test_completed'] = False
     if 'timestamp' not in st.session_state:
         st.session_state['timestamp'] = int(time.time() * 1000)
+    if 'rating_submitted' not in st.session_state:
+        st.session_state['rating_submitted'] = False
 
 # Load images from the assigned image set
 def load_images(image_set):
@@ -89,18 +91,20 @@ if st.session_state['ab_test_completed']:
         image = Image.open(image_path)
         st.image(image, caption=f"Image {st.session_state['current_image_index'] + 1}")
 
-        rating = st.slider("Rate this image (1-7):", 1, 7, 4)
+        rating = st.slider("Rate this image (1-7):", 1, 7, 4, key=st.session_state['current_image_index'], disabled=st.session_state['rating_submitted'])
 
-        if st.button("Submit Rating"):
+        if st.button("Submit Rating") and not st.session_state['rating_submitted']:
             # Save the rating
             save_rating(session_id, st.session_state['ab_condition'], st.session_state['image_set'], st.session_state['current_image_index'], rating, st.session_state['timestamp'])
             
+            # Mark rating as submitted
+            st.session_state['rating_submitted'] = True
+
+        if st.session_state['rating_submitted'] and st.button("Next Image"):
             # Move to the next image
             st.session_state['current_image_index'] += 1
+            st.session_state['rating_submitted'] = False
 
     # If all images are rated, thank the user
     if st.session_state['current_image_index'] >= len(images):
         st.write("Thank you for participating in the survey!")
-
-
-
