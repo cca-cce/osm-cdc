@@ -17,6 +17,7 @@ c.execute('''CREATE TABLE IF NOT EXISTS ratings (
                 ab_condition TEXT,
                 image_set INTEGER,
                 image_index INTEGER,
+                image_name TEXT,
                 rating INTEGER,
                 timestamp INTEGER
             )''')
@@ -54,9 +55,9 @@ def load_ab_images():
     return images
 
 # Save rating to the database
-def save_rating(session_id, ab_condition, image_set, image_index, rating, timestamp):
-    c.execute('INSERT INTO ratings (session_id, ab_condition, image_set, image_index, rating, timestamp) VALUES (?, ?, ?, ?, ?, ?)',
-              (session_id, ab_condition, image_set, image_index, rating, timestamp))
+def save_rating(session_id, ab_condition, image_set, image_index, image_name, rating, timestamp):
+    c.execute('INSERT INTO ratings (session_id, ab_condition, image_set, image_index, image_name, rating, timestamp) VALUES (?, ?, ?, ?, ?, ?, ?)',
+              (session_id, ab_condition, image_set, image_index, image_name, rating, timestamp))
     conn.commit()
 
 @app.route('/')
@@ -93,14 +94,19 @@ def rate_image():
         return render_template('thank_you.html')
 
     image_path = images[current_index]
+    image_name = os.path.basename(image_path)
 
     if request.method == 'POST':
         rating = int(request.form['rating'])
-        save_rating(session['session_id'], session['ab_condition'], session['image_set'], current_index, rating, session['timestamp'])
+        save_rating(session['session_id'], session['ab_condition'], session['image_set'], current_index, image_name, rating, session['timestamp'])
         session['current_image_index'] += 1
         return redirect(url_for('rate_image'))
 
     return render_template('rate_image.html', image_path=image_path, image_number=current_index + 1)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    #app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000)
+
+
+
