@@ -1,0 +1,19 @@
+<!-- ab_test.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A/B Test</title>
+</head>
+<body>
+    <h1>A/B Test</h1>
+    <p>You are in condition: {{ ab_condition }}</p>
+    <img src="{{ url_for('static', filename=ab_image_path.split('static/')[1]) }}" alt="A/B Test Image">
+    <form method="post">
+        <button type="submit">Proceed to Image Set</button>
+    </form>
+</body>
+</html>
+
+
