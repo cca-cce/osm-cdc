@@ -31,16 +31,11 @@ def get_session_id():
 
 # Randomly assign A/B test condition and image set
 def initialize_user():
-    if 'ab_condition' not in session:
-        session['ab_condition'] = random.choice(['A', 'B'])
-    if 'image_set' not in session:
-        session['image_set'] = random.randint(1, 20)
-    if 'current_image_index' not in session:
-        session['current_image_index'] = 0
-    if 'ab_test_completed' not in session:
-        session['ab_test_completed'] = False
-    if 'timestamp' not in session:
-        session['timestamp'] = int(time.time() * 1000)
+    session['ab_condition'] = random.choice(['A', 'B'])
+    session['image_set'] = random.randint(1, 20)
+    session['current_image_index'] = 0
+    session['ab_test_completed'] = False
+    session['timestamp'] = int(time.time() * 1000)
 
 # Load images from the assigned image set
 def load_images(image_set):
@@ -65,11 +60,7 @@ def index():
     # Initialize user session
     get_session_id()
     initialize_user()
-
-    if not session['ab_test_completed']:
-        return redirect(url_for('ab_test'))
-    else:
-        return redirect(url_for('rate_image'))
+    return redirect(url_for('ab_test'))
 
 @app.route('/ab_test', methods=['GET', 'POST'])
 def ab_test():
@@ -107,6 +98,8 @@ def rate_image():
 if __name__ == '__main__':
     #app.run(debug=True)
     app.run(host='0.0.0.0', port=5000)
+
+
 
 
 
