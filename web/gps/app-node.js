@@ -1,5 +1,6 @@
 // Node.js Express application using JavaScript and SQLite
 
+const fs = require('fs');
 const express = require('express');
 const session = require('express-session');
 const sqlite3 = require('sqlite3').verbose();
@@ -8,7 +9,7 @@ const uuid = require('uuid');
 const bodyParser = require('body-parser');
 
 const app = express();
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
 // Set up SQLite Database
 const db = new sqlite3.Database('ab_test_data.db', (err) => {
@@ -158,13 +159,6 @@ app.post('/rate_image', (req, res) => {
 });
 
 // Start the server
-//app.listen(PORT, () => {
-//  console.log(`Server is running on http://localhost:${PORT}`);
-//});
-const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
-
-
-
