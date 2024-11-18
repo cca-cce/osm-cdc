@@ -1,0 +1,14 @@
+
+
+
+
+grep -E -o 'http.*visit.*\.[a-z]{2,3}\/' raw.txt > urls.tsv
+
+
+
+
+
+
+
+
+
