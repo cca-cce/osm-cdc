@@ -2,13 +2,22 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Random Page Redirect</title>
 
-  <!-- Enable COOP/COEP on GitHub Pages via service worker -->
-  <script src="coi-serviceworker.min.js"></script>
+  <!-- Register COOP/COEP service worker for GH Pages -->
+  <script>
+    // register relative to this folder (scope = ./)
+    if (!window.crossOriginIsolated) {
+      try {
+        navigator.serviceWorker.register('./coi-serviceworker.min.js')
+          .then(() => location.reload())
+          .catch(() => {/* ignore; py-script may still fail without COI */});
+      } catch {}
+    }
+  </script>
 
-  <!-- Pin a PyScript version instead of "latest" to avoid breaking changes -->
+  <!-- Pin PyScript version (avoid "latest") -->
   <link rel="stylesheet" href="https://pyscript.net/2024.6.2/pyscript.css" />
   <script defer src="https://pyscript.net/2024.6.2/pyscript.js"></script>
 </head>
@@ -30,6 +39,9 @@ def redirect_user(event):
 
 create_random_button()
   </py-script>
+
+  <!-- tiny debug: will print true once COI is enabled and PyScript can run -->
+  <script>console.log('crossOriginIsolated:', window.crossOriginIsolated);</script>
 </body>
 </html>
 
