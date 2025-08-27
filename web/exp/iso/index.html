@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Random Page Redirect (isolated)</title>
+
+  <!-- Scope COOP/COEP to THIS folder only -->
+  <script>
+    if (!window.crossOriginIsolated && 'serviceWorker' in navigator) {
+      // Service worker lives in ./ and its scope is limited to ./ (iso/)
+      navigator.serviceWorker.register('./coi-serviceworker.min.js', { scope: './' })
+        .then(() => location.reload())
+        .catch(err => console.warn('SW registration failed:', err));
+    }
+  </script>
+
+  <!-- PyScript (pin a known release) -->
+  <link rel="stylesheet" href="https://pyscript.net/releases/2024.1.3/core.css" />
+  <script type="module" src="https://pyscript.net/releases/2024.1.3/core.js"></script>
+
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 2rem; }
+    button { font-size: 1rem; padding: .6rem 1rem; cursor: pointer; }
+    .note { color: #666; margin-top: .75rem; font-size: .9rem; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Random Page Redirect</h1>
+
+  <py-script>
+from js import document, window
+import random
+
+OPEN_IN_NEW_TAB = True  # set to False to try same-tab navigation
+
+def make_btn(label, handler):
+    b = document.createElement('button')
+    b.textContent = label
+    b.addEventListener('click', handler)
+    document.body.appendChild(b)
+
+def redirect(event):
+    url = '../subpage_a.html' if random.random() < 0.5 else '../subpage_b.html'
+    if OPEN_IN_NEW_TAB:
+        # Avoid COOP/COEP mismatch warnings in Firefox by breaking the opener chain
+        window.open(url, '_blank', 'noopener')
+    else:
+        # Same-tab navigation; may trigger a Firefox interstitial if security configs differ
+        window.location.assign(url)
+
+make_btn('Go to a random page', redirect)
+  </py-script>
+
+  <p class="note">
+    Debug: <code>crossOriginIsolated</code> = <span id="coi-flag">?</span>
+  </p>
+  <script>
+    document.getElementById('coi-flag').textContent = String(window.crossOriginIsolated);
+  </script>
+</body>
+</html>
+
