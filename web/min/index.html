@@ -30,17 +30,22 @@
   <!-- Inline Python -->
   <script type="py">
 from js import document, window
+from pyodide.ffi import create_proxy
 import random
 
-def go(_evt=None):
+def go(event=None):
     url = "subpage_a.html" if random.random() < 0.5 else "subpage_b.html"
-    # same-folder navigation (also under COI) -> no Firefox interstitial
-    window.location.href = url
+    window.location.assign(url)
 
+# Create button
 btn = document.createElement('button')
 btn.textContent = 'Go to a random page'
-btn.addEventListener('click', go)
 document.body.appendChild(btn)
+
+# Wrap Python callback and KEEP a reference so it isn't garbage-collected
+_go_proxy = create_proxy(go)
+window._go_proxy = _go_proxy   # store on window to keep it alive
+btn.addEventListener('click', _go_proxy)
   </script>
 
   <p class="meta">crossOriginIsolated: <span id="coi">?</span></p>
