@@ -1,31 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Random Page Redirect</title>
-    <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
-    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Random Page Redirect</title>
+
+  <!-- Enable COOP/COEP on GitHub Pages via service worker -->
+  <script src="coi-serviceworker.min.js"></script>
+
+  <!-- Pin a PyScript version instead of "latest" to avoid breaking changes -->
+  <link rel="stylesheet" href="https://pyscript.net/2024.6.2/pyscript.css" />
+  <script defer src="https://pyscript.net/2024.6.2/pyscript.js"></script>
 </head>
 <body>
-    <h1>Welcome to Random Page Redirect</h1>
-    <py-script>
-        import random
-        from js import document, window
+  <h1>Welcome to Random Page Redirect</h1>
 
-        def create_random_button():
-            button = document.createElement('button')
-            button.textContent = 'Go to a random page'
-            button.onclick = redirect_user
-            document.body.appendChild(button)
+  <py-script>
+from js import document, window
+import random
 
-        def redirect_user(event):
-            if random.random() < 0.5:
-                window.location.href = 'subpage_a.html'
-            else:
-                window.location.href = 'subpage_b.html'
+def create_random_button():
+    btn = document.createElement('button')
+    btn.textContent = 'Go to a random page'
+    btn.onclick = redirect_user
+    document.body.appendChild(btn)
 
-        create_random_button()
-    </py-script>
+def redirect_user(event):
+    window.location.href = 'subpage_a.html' if random.random() < 0.5 else 'subpage_b.html'
+
+create_random_button()
+  </py-script>
 </body>
 </html>
+
